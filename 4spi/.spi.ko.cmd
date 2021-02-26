@@ -1,0 +1,1 @@
+cmd_/home/ww/souce/modules/4spi/spi.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/ww/souce/modules/4spi/spi.ko /home/ww/souce/modules/4spi/spi.o /home/ww/souce/modules/4spi/spi.mod.o;  true

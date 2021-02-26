@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "of_device.h": "c",
+        "spi.h": "c",
+        "module.h": "c",
+        "gpio.h": "c",
+        "typeinfo": "c"
+    }
+}

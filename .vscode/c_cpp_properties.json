@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/ww/souce/linux-orangepi/include/linux",
+                "/home/ww/souce/linux-orangepi/arch/arm/include/asm",
+                "/home/ww/souce/linux-orangepi/arch/arm/mach-sunxi",
+                "/home/ww/souce/linux-orangepi/arch/arm/kernel",
+                "/usr/include"
+                
+
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

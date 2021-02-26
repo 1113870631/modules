@@ -1,0 +1,1 @@
+cmd_/home/ww/souce/modules/5.gpio/gpio_tree.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/ww/souce/modules/5.gpio/gpio_tree.ko /home/ww/souce/modules/5.gpio/gpio_tree.o /home/ww/souce/modules/5.gpio/gpio_tree.mod.o;  true

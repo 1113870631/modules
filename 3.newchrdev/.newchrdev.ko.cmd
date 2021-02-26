@@ -1,0 +1,1 @@
+cmd_/home/ww/souce/modules/3.newchrdev/newchrdev.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/ww/souce/modules/3.newchrdev/newchrdev.ko /home/ww/souce/modules/3.newchrdev/newchrdev.o /home/ww/souce/modules/3.newchrdev/newchrdev.mod.o;  true
